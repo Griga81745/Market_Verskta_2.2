@@ -251,7 +251,6 @@ li:hover {
 .container__product-container-slider-main {
   width: 625px;
   height: 470px;
-  border: 1px solid red;
   display: flex;
 }
 
@@ -304,7 +303,6 @@ li:hover {
 .slider_product-image-container {
   width: 488px;
   height: 440px;
-  border: 1px solid red;
 }
 
 .slider-image-show1{
@@ -349,7 +347,6 @@ li:hover {
   font-family: "Montserrat", sans-serif;
   width: 625px;
   height: 450px;
-  border: 1px solid red;
 }
 
 .container__product-prod-name {
